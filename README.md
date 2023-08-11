@@ -11,5 +11,5 @@
 <!--END_SECTION:activity-->
 
 <!--END_SECTION:language-->
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Henesys&amp;layout=compact&amp;theme=dark" alt="Top Langs"></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Henesys&amp;theme=dark" alt="Top Langs"></p>
 <!--END_SECTION:language-->
