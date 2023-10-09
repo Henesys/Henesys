@@ -7,7 +7,7 @@
 <br/><br/>
 
 <!--START_SECTION:activity-->
-<p align="center"><a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Henesys&amp;theme=dark&amp;locale=ko&amp;date_format=j%20M%5B%20Y%5D&amp;mode=weekly" alt="GitHub Streak"></a></p>
+<p align="center"><a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Henesys&amp;theme=dark&amp;locale=en&amp;date_format=j%20M%5B%20Y%5D&amp;mode=weekly" alt="GitHub Streak"></a></p>
 <!--END_SECTION:activity-->
 
 <!--END_SECTION:language-->
